@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-container{
+    display: flex;
+}
+.nav-container>ul>li{
+    list-style: none;
+}
+.nav-container a{
+    text-decoration: none;
+}
